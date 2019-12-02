@@ -9,7 +9,8 @@
     "dev-start": "webpack-dev-server --config ./webpack.config.js --mode development --open",
     "test": "",
     "test:watch": "",
-    "build": "webpack -w"
+    "build": "webpack",
+    "build:watch": "webpack -w"
   },
   "author": "",
   "license": "ISC",
